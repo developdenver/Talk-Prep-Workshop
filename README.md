@@ -6,7 +6,10 @@ By the end of this workshop, you will:
 1. Present a talk introduction that meets the criteria described in the Talk Introduction Checklist
 1. Identify the parts of a strong talk conclusion 
 1. Present a talk conclusion that meets the criteria described in the Talk Conclusion Checklist 
+
+
 _if time_ 
+
 5. Write the remainder of your talk
 * Identify the steps needed to connect the introduction and conclusion
 * These should align with your outcomes or the steps needed to defend your thesis- ~1 for a lightning talk, ~4 for a regular talk
