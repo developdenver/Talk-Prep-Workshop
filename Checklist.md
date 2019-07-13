@@ -9,13 +9,5 @@
 * [ ] Identify who will benefit from hearing the talk
 * [ ] Provide a roadmap about what you'll cover in the talk
 
-
-
-
-
-
-
-* [ ]
-
 ## Conclusion 
 * [ ] Recap 
