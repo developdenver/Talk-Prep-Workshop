@@ -14,18 +14,6 @@ _if time_
 
 
 
-### Agile Talk Writing Process
-#### Improvise your talk out loud
-* Pretend any visual aids, statistics, examples, etc. already exist
-* It will be rough and rambly, potentially really short or really long- this is ok
-
-#### Reflect, Improve, Repeat
-* Where did the flow break? Where was it boring? Can you cut something out? Were there any jokes or examples you came up with that should definitely make it in?
-* What would you need to do it better next time? Slides? Facts? Code examples? A well-written phrase? How little can you get away with?
-* Keep the cycle time short- your second run should still be heavily improvised
-* After 3-7 iterations, your talk should be taking shape
-
-
 ### Objective 1: Identify the parts of a strong talk introduction 
 * Culture Talk Exemplar: [Zero to SRE by Kim Schlesinger](https://www.youtube.com/watch?v=JEVssm9VqtA&list=PLbRoZ5Rrl5ldRwunyzYNj1BfudZDorIlN&index=33&t=0s)
     * Note: watch from the beginning to 2:15
@@ -42,6 +30,8 @@ Tips:
 ### Objective 3: Identify the parts of a strong talk conclusion 
 * Exemplar: [Optimizing for Learning by Logan McDonald](https://www.youtube.com/watch?v=yiPYuGWNnz8) 
     * Note: start at 25:15 and watch to the end 
+* Exemplar: [Creating a Career Ladder for Engineers by Marco Rogers](https://www.youtube.com/watch?v=jA1Q94d2z10)
+    * Note: start at 31:11 and watch to the end 
 
 ### Objective 4: Present a talk conclusion that meets the criteria described in the Talk Conclusion Checklist 
 
