@@ -16,4 +16,4 @@
 * [ ] Have a call to action for the audience
 * [ ] Leave the door open for more discussion either through Q&A or after the talk 
 * [ ] Provide a link to a list of resources 
-* [ ] The final slide says "Thank you" and lists your contact information
+* [ ] The final slide says "Thank you" and lists your name and contact information
