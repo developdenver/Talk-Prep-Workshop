@@ -11,9 +11,7 @@ By the end of this workshop, you will:
 _if time_ 
 
 5. Write the remainder of your talk
-* Identify the steps needed to connect the introduction and conclusion
-* These should align with your outcomes or the steps needed to defend your thesis- ~1 for a lightning talk, ~4 for a regular talk
-* Start making nice slides 
+
 
 
 ### Agile Talk Writing Process
@@ -52,6 +50,11 @@ Write your conclusion...
 * Should mirror your intro- if you were talking about how bad something was in your intro, you should be talking about how good it is with the improvements you’ve made, etc.
 * Explanatory: Recap your outcomes
 * Argumentative: Restate your thesis and outline how you defended it
+
+### Objective 5: Write the remainder of your talk
+* Identify the steps needed to connect the introduction and conclusion
+* These should align with your outcomes or the steps needed to defend your thesis- ~1 for a lightning talk, ~4 for a regular talk
+* Start making nice slides 
 
 
 
