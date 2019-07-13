@@ -13,7 +13,6 @@ _if time_
 5. Write the remainder of your talk
 
 
-
 ### Objective 1: Identify the parts of a strong talk introduction 
 * Culture Talk Exemplar: [Zero to SRE by Kim Schlesinger](https://www.youtube.com/watch?v=JEVssm9VqtA&list=PLbRoZ5Rrl5ldRwunyzYNj1BfudZDorIlN&index=33&t=0s)
     * Note: watch from the beginning to 2:15
@@ -46,7 +45,8 @@ Write your conclusion...
 * These should align with your outcomes or the steps needed to defend your thesis- ~1 for a lightning talk, ~4 for a regular talk
 * Start making nice slides 
 
-
+### Survey 
+If you attended this workshop in person or remotely, please [take the survey](https://docs.google.com/forms/d/e/1FAIpQLSeG5w-yBIUQ_LAA9CrE0UJZbFUpss5us6ZO95tFDRC7-asB3g/viewform).
 
 
 

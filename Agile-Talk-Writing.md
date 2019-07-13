@@ -9,3 +9,5 @@
 * What would you need to do it better next time? Slides? Facts? Code examples? A well-written phrase? How little can you get away with?
 * Keep the cycle time short- your second run should still be heavily improvised
 * After 3-7 iterations, your talk should be taking shape
+
+
